@@ -33,9 +33,10 @@ pip3 install -r requirements.txt
 
  
 ## NOTICE:
-    Set in config `FOLLOWERS_NUMBER` = 0 , check all username!
     
-    SAVE `USERNAME:FOLLOWERS:FOLLOWING:URL_IMG`
+Set in config `FOLLOWERS_NUMBER` = 0 , check all username!
+    
+SAVE `USERNAME:FOLLOWERS:FOLLOWING:URL_IMG`
 
 Finally!
 
